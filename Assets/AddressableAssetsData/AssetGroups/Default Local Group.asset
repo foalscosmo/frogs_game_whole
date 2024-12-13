@@ -1,0 +1,665 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Default Local Group
+  m_EditorClassIdentifier: 
+  m_GroupName: Default Local Group
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 5bc8fad2c7f374ae7846d8051c63ef4f
+  m_SerializeEntries:
+  - m_GUID: 04d344903f80d85458fc6a0097d8e8bf
+    m_Address: Assets/Animations/Floaties Animations
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8f5aa8f5d08f83949b1e348b6907f55c
+    m_Address: Assets/Animations/Frog Animations
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a0771a3db74f1274b958433085327956
+    m_Address: Assets/Animations/ProgressBarAnimations
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4d86e261f60bca5489cdebf47c8eccad
+    m_Address: Assets/Animations/Shadow.controller
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7619647872680914fa9fb983b750887f
+    m_Address: Assets/Animations/Shadowanim.anim
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f6fad5c8872e00a40a25c8b1e104b227
+    m_Address: Assets/Animations/Floaties Animations/Floatie.controller
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4218ba269b9dd4830b12916c5aae4a52
+    m_Address: Assets/Animations/Floaties Animations/Floatie 1.controller
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c624bde68bbefff4b9eb38751c34e735
+    m_Address: Assets/Animations/Floaties Animations/Floatie 1 Enter.anim
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 727362cd395de469c80e96e01cd83d80
+    m_Address: Assets/Animations/Floaties Animations/Floatie 2.controller
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4308bfbadcbc1184388b15a9c37f7cbb
+    m_Address: Assets/Animations/Floaties Animations/Floatie 2 Enter.anim
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c6349d0da22634a4c974e044f4804eb9
+    m_Address: Assets/Animations/Floaties Animations/Floatie 3 Enter.anim
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: abf575f0034d04c46bc44cb7881a201b
+    m_Address: Assets/Animations/Floaties Animations/Floatiestive.anim
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 504cfbb4887ba46e7934205d0a24b5f6
+    m_Address: Assets/Animations/Floaties Animations/Floatiestive 1.anim
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ef108a2a2083c48c28344fad534efcb9
+    m_Address: Assets/Animations/Floaties Animations/Floatiestive 2.anim
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 80f5811f7c9ded44a8529ba78c754438
+    m_Address: Assets/Animations/Frog Animations/FrogRevealAnim.anim
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9b49d016bb9ccdd43ad4bbd80050402f
+    m_Address: Assets/Animations/Frog Animations/Frogs.controller
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 87cec8ed956ae4f4695903633276c5b8
+    m_Address: Assets/Animations/ProgressBarAnimations/Image.controller
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 700895b9ec2d5d34b95c4f8c45fd8096
+    m_Address: Assets/Animations/ProgressBarAnimations/ProgresStarCompleteAnim.anim
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 16270b1cf3dd2f44dac18bbd7994b640
+    m_Address: Assets/Animations
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 02059f9b7aa76449181ab76d376ad444
+    m_Address: Assets/Fonts
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5ee06c7f734a6cc40aab4a96e0bde64b
+    m_Address: Assets/Fonts/LuckiestGuy.ttf
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 69e4d212b71422c4cba18e24fe506610
+    m_Address: Assets/Fonts/LuckiestGuy_BlackStroke.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9750949d6c3764449a476372c0c912c3
+    m_Address: Assets/Fonts/Playpen_Sans font
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ddb2ece44da89472ebcf8de57d81a925
+    m_Address: Assets/Fonts/PlaypenSans-ExtraBold SDF.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6a98f11a2e567ca49bd6e46d22c2868d
+    m_Address: Assets/Frog/Frog Animator Controller.controller
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a9c031a8614194d55a04c2d45710bd86
+    m_Address: Assets/Fonts/Playpen_Sans font/PlaypenSans-VariableFont_wght SDF.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f5ae0853792220e409a53e748154342d
+    m_Address: Assets/Frog/skeleton.json
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 808682912f8533042ad4e619b6bb6174
+    m_Address: Assets/Frog/skeleton.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1c0bbcc44a38bf34786e75ff697c01dc
+    m_Address: Assets/Frog/skeleton.atlas.txt
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 000a0b11f397d3941b1a07f7ec82b846
+    m_Address: Assets/Frog/skeleton_Atlas.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7ec1097969e151b45b6f2f45f5e5f51d
+    m_Address: Assets/Frog/skeleton_Controller.controller
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9e2fa68c303f8f242a1a778986a3e742
+    m_Address: Assets/Frog/skeleton_Material.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c30b61d19d1e9454997fc136396e0ba4
+    m_Address: Assets/Frog/skeleton_SkeletonData.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: df7856c518d9ba943986d3c8419b4a7a
+    m_Address: Assets/Frog
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 37abcd6364d60634ab95f6191364ff5d
+    m_Address: Assets/New Universal Render Pipeline Asset_Renderer.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d3f9bd8a9dd75d4489fb5cd9a96b9252
+    m_Address: Assets/Particles/Particle_Stars/material_sprite_star.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 34e2d0a536d25456f9330f166e656df1
+    m_Address: Assets/Particles/Star Particles.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 08375bda1c28b496f875620ef79d7f0b
+    m_Address: Assets/Particles/VictoryParticle.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 34192c5e0d14aee43a0e86cc4823268a
+    m_Address: Assets/Plugins/Demigiant/DOTween/DOTween.XML
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 143604b8bad857d47a6f7cc7a533e2dc
+    m_Address: Assets/Plugins/Demigiant/DOTween/Modules
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: fccfc62abf2eb0a4db614853430894fd
+    m_Address: Assets/Plugins/Demigiant/DOTween/readme.txt
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c46dc21328a96684ab1b796cedad458a
+    m_Address: Assets/ProjectSettings/UIParticle.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3f5943223fae845419cf96413260d1a7
+    m_Address: Assets/ProjectSettings
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ef050862f1ccb6a4d897989dc609092e
+    m_Address: Assets/Scenes/GameScene.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4ea6f6f7f347bf94a8549890e3869792
+    m_Address: Assets/Scenes/GameScene/Bloom Profile.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a8c5107ab329fec419d65868a0440ff9
+    m_Address: Assets/Scenes/GameScene
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9b38ea01d0590844d8ecfdd3070f0341
+    m_Address: Assets/Sounds/FireWork.ogg
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e484518004432a34cacaa2634533ed39
+    m_Address: Assets/Sounds/FrogJump.ogg
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f75a4c7f8ac6bb4409e1209a71291b77
+    m_Address: Assets/Sounds/ProgressStar.ogg
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: aa557f3cf3316424492f250a94c926fc
+    m_Address: Assets/Sounds/Reward03.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7134210995af88546a6950dac2e62f60
+    m_Address: Assets/Sounds/Music01.ogg
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c7a547d78dff0ae4a92b92dbd0669d09
+    m_Address: Assets/Sounds/MatchSound.ogg
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8b2532d049b5d474e976ac68e2fc6c12
+    m_Address: Assets/Sounds/AI Voiceover
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: abb51266faae0bf489721af01500ee95
+    m_Address: Assets/Sounds/AI Voiceover/Blue_Exited.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8175db00377ec99419785c9f0b7eec16
+    m_Address: Assets/Sounds/AI Voiceover/Green_Cheerful.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 389c8316c9831534594616bf01011f7d
+    m_Address: Assets/Sounds/AI Voiceover/Orange_Cheerful.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3a19145a9bc389640a386dae935eb3d6
+    m_Address: Assets/Sounds/AI Voiceover/Pink_Cheerful.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 30cc9d32d0c6c914f88e188783cba15b
+    m_Address: Assets/Sounds/AI Voiceover/Purple_Exited.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1d029c5c12ba0c44a989d23f7a43e937
+    m_Address: Assets/Sounds/AI Voiceover/Yellow_Cheerful.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f0d364e4ed7070a449ee52b3ebb4280f
+    m_Address: Assets/Sounds/AI Voiceover/Nice_Exited.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5ae3c1126f9deed45adff6534e1a58fd
+    m_Address: Assets/Sounds/AI Voiceover/Great_Shouting.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 421caac1681bddb49804bc0d078342a6
+    m_Address: Assets/Sounds/AI Voiceover/Amazing_Excited.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4b5cc1b6212dc0044a3c46464c400700
+    m_Address: Assets/Sounds/AI Voiceover/Match the colors_Exited.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1bd2baf710b37f7499ecc105620a6ffd
+    m_Address: Assets/Sounds/AI Voiceover/Try Again_Cheerful.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e56a905bd4d3997438bba4fa7ad3125b
+    m_Address: Assets/Sounds/AI Voiceover/Well Done_Exited.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9cfec1e33a4524e0e9880ade7da0757c
+    m_Address: Assets/Sounds
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 30918bcaadaaecc42bc215ff52f75b21
+    m_Address: Assets/Spine
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e6712a5a0c05f9f4092f9a3197925e99
+    m_Address: Assets/Spine Examples
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f09c19426de438b408307e7ff432e4b5
+    m_Address: Assets/Spine/CHANGELOG.md
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 09478c42aa0375347898d942d287a819
+    m_Address: Assets/Spine/package.json
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 80c06a67282e71043a4b1fad3e0c5654
+    m_Address: Assets/Spine/version.txt
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 19a93dd07b198ec4d9d825b8eb6b37a9
+    m_Address: Assets/Sprites/UI/progress_bar_full.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: eec0da83aaea94b87b8c78712ffda821
+    m_Address: Assets/Sprites/UI/home.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3742451bd889a7d4ab2d160928988b0d
+    m_Address: Assets/Sprites/UI/progress_bar_empty.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 466040bd8de421a4e9486f70fe09332e
+    m_Address: Assets/Sprites/UI
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2ef7f092278993d42bdacc4454ae7192
+    m_Address: Assets/Sprites/HintFinger.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 94f0e67a88448384d9c26b891f276feb
+    m_Address: Assets/Sprites/Floaties
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 675b033bbdd7c4f75873c576efb27b09
+    m_Address: Assets/Sprites/Floaties/Blue-Floatie.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 22605e155bf44418a9be16f7df94894b
+    m_Address: Assets/Sprites/Floaties/Green-Floatie.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f75f074e1b171b34ca977076db8be12a
+    m_Address: Assets/Sprites/Floaties/Orange-Floatie.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f6919f7cd770d4e079157ffa0a1a77e9
+    m_Address: Assets/Sprites/Floaties/Pink-Floatie.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 877dae9db657746f1a2512c5aa76b135
+    m_Address: Assets/Sprites/Floaties/Purple-Floatie.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 393d8f9493e8d4a21ab681687c183ca7
+    m_Address: Assets/Sprites/Floaties/Yellow-Floatie.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: acd4a38bc8cb0604e86866168ce4c034
+    m_Address: Assets/Sprites/Floaties/Floatie-Shadow.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8ce2ace049b90c648b1b9bf32cebd884
+    m_Address: Assets/Sprites/Background
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8e27785d301107e4a8aafe9820aa7c29
+    m_Address: Assets/Sprites/Background/Cloud-1.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 71094bd4e53962c4b8d8593b70bef841
+    m_Address: Assets/Sprites/Background/Sky.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b1f9492d44073d54a978df0d74bac3e3
+    m_Address: Assets/Sprites/Background/Ground-Front.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1fa479335bb78e44395502472743d407
+    m_Address: Assets/Sprites/Background/Cloud-Large.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a1ee9d0edfee945429b3d737fb6c89f7
+    m_Address: Assets/Sprites/Background/Cloud-2.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0388de64c3cb90f4c9e40caef62a38c9
+    m_Address: Assets/Sprites/Background/Ground-Back.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4dc6c475a994a61418f72375bd6683ba
+    m_Address: Assets/UniversalRenderPipelineGlobalSettings.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 34dd67a2e9499bf4fa94eaf43ed1fc5b
+    m_Address: Assets/VFX
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5e1d9a06dd6846845a0e43a8d7b6026e
+    m_Address: Assets/VFX/Materials
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e3908efe4e282554ab569f90bb8822fc
+    m_Address: Assets/VFX/Mesh 3D
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 064298ca1f4316645936593054034181
+    m_Address: Assets/VFX/Prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b4bc0881ff9d1e14da4ec86e0293e9a9
+    m_Address: Assets/VFX/Shaders
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1a896e2c821e6634caf507478f99915b
+    m_Address: Assets/VFX/Textures
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6db397174793ff444b8a18efd94e00ef
+    m_Address: Assets/VFX/VFX Graph
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6053f426dc1dd184ea3e61a4b08acaec
+    m_Address: Assets/VFX/Materials/Conffetti 2x3.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7c22afd6a3793d24fa9b9e0e74b2c08b
+    m_Address: Assets/VFX/Materials/GlowSparks 1.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a71b889c76c87f4428a30a2495380f91
+    m_Address: Assets/VFX/Materials/Star 1.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8678bda34ee0fc04eb834139b7df5f80
+    m_Address: Assets/VFX/Materials/Cloud-1.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: dd2cc15f74ceb764b91f43da9a7418d5
+    m_Address: Assets/VFX/Materials/ProgressStarGlow.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d5282c50d2ccdd5418ae36712b9075de
+    m_Address: Assets/VFX/Materials/Glow.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2ccbb000f28e6ac4699eb1f2a59ad6e3
+    m_Address: Assets/VFX/Materials/GlowSparks.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 75c47f8f12972974db4305e1f64765a1
+    m_Address: Assets/VFX/Materials/Glow 1.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 68abb8bfde3153647bae7f1f150a1911
+    m_Address: Assets/VFX/Materials/Floatie Glow.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 554795b42aae92344ba08d1d57b85355
+    m_Address: Assets/VFX/Materials/Cloud-2.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: cc98a8ebda6c80c49962c72a409c9139
+    m_Address: Assets/VFX/Materials/Star.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ad3b2054ac0e8a24d82d075cbc26d134
+    m_Address: Assets/VFX/Mesh 3D/CircleHP01.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: fee8eedda74351d488fc5869b035803c
+    m_Address: Assets/VFX/Prefab/Firework.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 35c34d7c8295cad45b51f709ad7c402c
+    m_Address: Assets/VFX/Prefab/MatchEffect.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 27b49138b9032f4468ae07840ba77745
+    m_Address: Assets/VFX/Prefab/Conffetti.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: dbd9e5bddfae6a744b6e62bf98817e3c
+    m_Address: Assets/VFX/Shaders/Paralax.shadergraph
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d12ec418341a92d468801df81f577b1a
+    m_Address: Assets/VFX/Shaders/ParticlesHDR_Add.shadergraph
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2fa34e70011a4fc4abdd70b4530234b4
+    m_Address: Assets/VFX/Shaders/Fauntain.shadergraph
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f6433a8ab38e736479dcdbe9a7009c3f
+    m_Address: Assets/VFX/Textures/progress_bar Tex.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 731a139b9edd65a42bb6cf8bf23cfe51
+    m_Address: Assets/VFX/Textures/VoronoiLine02.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a05f0b5a0d120564d984d123caab0d9c
+    m_Address: Assets/VFX/Textures/Gradient06.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 21690f46e61ec664c8f6a95876768416
+    m_Address: Assets/VFX/Textures/Noise01.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 289c111116dc3e6439745671a348122b
+    m_Address: Assets/VFX/Textures/Floatie Glow Tex.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: fd3f0615763d44347808ed0cf9b8bf99
+    m_Address: Assets/VFX/Textures/Star.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 055bb2cd62e17014786706c24bfc07fe
+    m_Address: Assets/VFX/Textures/Conffetti 2x3.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: dc2389428578b224d82f73b57d4ad4af
+    m_Address: Assets/VFX/Textures/Small Glow.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b310f624be120104b90576ebfcccfecf
+    m_Address: Assets/VFX/VFX Graph/WaterCircles.vfx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 96b33dc1c7ff4410e8ac1475aba176cb
+    m_Address: EntryPoint
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6f2be570a6888477d95efcce0b840aa6
+    m_Address: EntryPointPrefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: a1576d02ec577444fb3b523301736ad0, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 948a2f58b6a094da8b432428162bab22, type: 2}
+    - {fileID: 11400000, guid: 91f3e930847834309a14826424eb665a, type: 2}

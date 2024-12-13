@@ -1,0 +1,154 @@
+skeleton.png
+size:4096,256
+filter:Linear,Linear
+pma:true
+Blue frog/body
+bounds:0,105,250,148
+Blue frog/eye glow
+bounds:3135,230,110,23
+Green frog/eye glow
+bounds:3135,230,110,23
+Orange frog/eye glow
+bounds:3135,230,110,23
+Pink frog/eye glow
+bounds:3135,230,110,23
+Purple frog/eye glow
+bounds:3135,230,110,23
+Yellow frog/eye glow
+bounds:3135,230,110,23
+Blue frog/eyes closed
+bounds:139,28,137,26
+Blue frog/eyes opened
+bounds:0,56,137,47
+Blue frog/head
+bounds:1512,97,199,156
+Blue frog/left arm
+bounds:836,4,71,91
+rotate:90
+Blue frog/mouth 2
+bounds:3761,208,52,45
+Blue frog/right arm
+bounds:278,18,85,91
+rotate:90
+Blue frog/right foot
+bounds:3089,140,85,48
+rotate:90
+Blue frog/right thigh
+bounds:1161,36,77,67
+Blue frog/smile default
+bounds:3218,180,48,27
+rotate:90
+Green frog/body
+bounds:252,105,250,148
+Green frog/eyes closed
+bounds:139,0,137,26
+Green frog/eyes opened
+bounds:2718,206,137,47
+Green frog/head
+bounds:1713,97,199,156
+Green frog/left arm
+bounds:2857,105,71,91
+rotate:90
+Green frog/mouth 2
+bounds:3815,208,52,45
+Green frog/right arm
+bounds:371,18,85,91
+rotate:90
+Green frog/right foot
+bounds:3247,205,85,48
+Green frog/right thigh
+bounds:1240,36,77,67
+Green frog/smile default
+bounds:2950,128,48,27
+rotate:90
+Orange frog/body
+bounds:504,105,250,148
+Orange frog/eyes closed
+bounds:2718,129,137,26
+Orange frog/eyes opened
+bounds:0,7,137,47
+Orange frog/head
+bounds:1914,97,199,156
+Orange frog/left arm
+bounds:2996,154,71,91
+rotate:90
+Orange frog/mouth 2
+bounds:3869,208,52,45
+Orange frog/right arm
+bounds:464,18,85,91
+rotate:90
+Orange frog/right foot
+bounds:3334,205,85,48
+Orange frog/right thigh
+bounds:1319,36,77,67
+Orange frog/smile default
+bounds:2811,79,48,27
+rotate:90
+Pink frog/body
+bounds:756,105,250,148
+Pink frog/eyes closed
+bounds:2857,178,137,26
+Pink frog/eyes opened
+bounds:139,56,137,47
+Pink frog/head
+bounds:2115,97,199,156
+Pink frog/left arm
+bounds:2718,56,71,91
+rotate:90
+Pink frog/mouth 2
+bounds:3923,208,52,45
+Pink frog/right arm
+bounds:557,18,85,91
+rotate:90
+Pink frog/right foot
+bounds:3421,205,85,48
+Pink frog/right thigh
+bounds:1398,36,77,67
+Pink frog/smile default
+bounds:929,27,48,27
+rotate:90
+Purple frog/body
+bounds:1008,105,250,148
+Purple frog/eyes closed
+bounds:2996,227,137,26
+Purple frog/eyes opened
+bounds:2718,157,137,47
+Purple frog/head
+bounds:2316,97,199,156
+Purple frog/left arm
+bounds:975,32,71,91
+rotate:90
+Purple frog/mouth 2
+bounds:3977,208,52,45
+Purple frog/right arm
+bounds:650,18,85,91
+rotate:90
+Purple frog/right foot
+bounds:3508,205,85,48
+Purple frog/right thigh
+bounds:3139,161,77,67
+Purple frog/smile default
+bounds:1477,55,48,27
+rotate:90
+Yellow frog/body
+bounds:1260,105,250,148
+Yellow frog/eyes closed
+bounds:836,77,137,26
+Yellow frog/eyes opened
+bounds:2857,206,137,47
+Yellow frog/head
+bounds:2517,97,199,156
+Yellow frog/left arm
+bounds:1068,32,71,91
+rotate:90
+Yellow frog/mouth 2
+bounds:4031,208,52,45
+Yellow frog/right arm
+bounds:743,18,85,91
+rotate:90
+Yellow frog/right foot
+bounds:3595,205,85,48
+Yellow frog/right thigh
+bounds:3682,186,77,67
+Yellow frog/smile default
+bounds:3247,176,48,27
